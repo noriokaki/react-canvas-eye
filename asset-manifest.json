@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-canvas-eye/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-canvas-eye/static/js/main.c8168d04.chunk.js",
+    "main.js.map": "/react-canvas-eye/static/js/main.c8168d04.chunk.js.map",
+    "runtime-main.js": "/react-canvas-eye/static/js/runtime-main.1003ae8d.js",
+    "runtime-main.js.map": "/react-canvas-eye/static/js/runtime-main.1003ae8d.js.map",
+    "static/js/2.611adc3e.chunk.js": "/react-canvas-eye/static/js/2.611adc3e.chunk.js",
+    "static/js/2.611adc3e.chunk.js.map": "/react-canvas-eye/static/js/2.611adc3e.chunk.js.map",
+    "index.html": "/react-canvas-eye/index.html",
+    "precache-manifest.206eab873fb5668de6644422e387331c.js": "/react-canvas-eye/precache-manifest.206eab873fb5668de6644422e387331c.js",
+    "service-worker.js": "/react-canvas-eye/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-canvas-eye/static/css/main.5ecd60fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1003ae8d.js",
+    "static/js/2.611adc3e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c8168d04.chunk.js"
+  ]
+}
